@@ -1,2 +1,2 @@
 # Bott
-Survey Telegram Bot written on Java
+Survey Telegram Bot written on Java with an SQL Database
